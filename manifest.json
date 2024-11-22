@@ -1,7 +1,8 @@
 {
   "manifest_version": 3,
   "name": "PyVirus",
-  "description": "A test \"virus\" that was made for a funny CS joke. (This code just pops up stuff and does nothing actually.",
+  "description": "A test \"virus\" that was made for a funny CS joke. (This code just pops up stuff and does nothing actually.) Made by TJCyan.",
+  "version": "1.0",
   "version": "1.0",
   "permissions": ["activeTab", "scripting"],
   "background": {
